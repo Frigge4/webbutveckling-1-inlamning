@@ -1,0 +1,23 @@
+/*    {Stava fel på ett färgnamn} 
+Ledsen! Vi har hittat följande fel (1)
+URI : TextArea
+11	 body	 Värdefel : background-color blues är inte ett background-color-värde : blues
+*/
+
+/*    {Stava fel på width}
+Ledsen! Vi har hittat följande fel (1)
+URI : TextArea
+9	 body	 Egenskap widths finns inte : 700px
+*/
+
+/* {Glöm ett semikolon}
+11	 body	 Värdefel : margin försök att hitta ett semikolon före egenskapsnamn. Lägger till ett
+*/
+
+/* {Glöm ett kolon}
+10	 body	 Värdefel : margin Parsningsfel auto
+*/
+
+/* {Skriv ett mellanslag mellan siffran och px på bredden}
+9	 body	 Värdefel : width Alltför många värden eller värden kan kännas igen : 700 px
+*/
