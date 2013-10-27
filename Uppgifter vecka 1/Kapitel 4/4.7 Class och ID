@@ -1,0 +1,3 @@
+Vad skiljer id från class? Man kan använda samma class vid flera tillfällen i samma kod medans id är en unik identitet.
+
+Hur skriver man flera klasser på samma gång? <div class="top left right bottom">

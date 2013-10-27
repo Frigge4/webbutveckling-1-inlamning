@@ -1,0 +1,7 @@
+Förklara begreppet rotelement: Först kommer deklarationen doctype, sen kommer rotelementet <html>. Dessa taggar ska omge allt i dokumentet utan doctypen själv.
+
+Förklara begreppet viewport: i body finns det som ska visas i dokumentfönstret (viewport)
+
+Förklara begreppet metadata: Metadata är information som finns inom <head>
+
+Hur änvänds texten i elementet title? Den änvänds för att beskriva innehållet på sidan i titellistan och i fliken. Men texten är även änvänd för sökresultat till sidan. Viktigt är att texten är distinkt och kortfattad.

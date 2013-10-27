@@ -1,0 +1,11 @@
+Undersök hur du kan änvända och ställa in indragen(indenteringen) i din editor.
+<!-- Kan börja med att säga att jag änvänder Sublime Text 2 efter tips från en kompis, har inte testat mycket annat -->
+
+Hur styr du bredden? Finns en liten tab nere vid högra hörnet. 
+Kan du styra den per språk? Jag får det inte att funka så iaf, verkar vara att man får byta mellan dem olika språken.
+
+Kan du ersätta tabb-tecknet med mellanslag? Ja, det finns en funktion som heter "indent using space"
+
+Finns det automatisk indentering? Ja det gör det.
+
+Kan du markera och dra in eller dra tillbaka hela block med TAB och Shift+TAB? Ja det funkade det med!

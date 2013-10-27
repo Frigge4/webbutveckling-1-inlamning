@@ -1,0 +1,19 @@
+I denna url (https://foobar.com/drul/putte/part.php?p=5&q=none#article)
+
+Vad är :
+
+Protokoll (även kallat schema): Http eller Https <!-- Https är den säkrare versionen -->
+
+Auktoritet (också kallat domän): foobar.com
+
+Sökväg: /drul/putte/
+
+Resursnamn: part.php
+
+Query string: ?p=&q=none
+
+Fragment identifier: #Article
+
+Är foo.jpg och foo.JPG samma sak, betraktade som resursnamn?: Nej det är det ej.
+
+Vad är en slug?: Den del av url'en som är specielt anpassats för att vara sökord och läsbar 

@@ -1,0 +1,13 @@
+Tita på följande kod {
+	<p lang="la" id="a" class="poesi jambisk">
+		miser Catulle desinas ineptire
+		et qoud visum perdire perditum ducas
+	</p>
+}
+Vad utgör elementet p? Den innehåller olika värden med attributer.
+
+Vilka atttribut har elementet? lang,class,id
+
+Vad händer om du utelämnar citationstecken för atrributet class? Jambisk skulle uppfattas som en till attribut
+
+Vad är fel i följande kod? (<p>Lorem ipsum.</p class="nonsens">) Class ska vara inom startaggen och inte sluttagg.

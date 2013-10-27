@@ -1,0 +1,15 @@
+Hur skriver du en länk med en relativ sökväg? <a href="exemple.html">#</a>
+
+Hur skriver du en länk med en absolut sökväg? <a href="/o/s/j/k/exemple.html">#</a>
+
+Hur skriver du en länk till en extern resurs? <a href="HTTP://webbteknik.nu/resources/videos/">#</a>
+
+Hur skriver du en sidintern länk? <a href="resources/videos/">#</a>
+
+Hur anger du dess mål? Med attributen alt
+ 
+Extrasvår fråga - Hur kan du ange målet som selector i css? Genom att ha en ID selector.
+
+Om du av tekniska skäl inte kan lägga in en dekorativ bild in din css, hur skriver du då dess HTML-kod? <img src"pic.jpg" alt"me" width"20" heigth="80" />
+
+Vad gör alt-attributen för nytta? Beskriver sin funktion så folk som inte kan se den förstår vad det skulle vara där igentligen.

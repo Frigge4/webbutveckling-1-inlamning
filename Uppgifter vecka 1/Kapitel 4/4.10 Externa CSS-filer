@@ -1,0 +1,3 @@
+Hur länkar du in en extern CSS-fil? <link href="go/style.css" rel="stylesheet" />
+
+Varför bör man änvända externa css-filer? För att sidan ska laddar snabbare utan massa extra scripts.

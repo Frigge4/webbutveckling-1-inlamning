@@ -1,0 +1,1 @@
+Vad menas med block- och inline-element? Ett blockelement skapar en "ruta" med innehåll och radbyter därför löpande text, blockelement kan även ha andra block- och inline-element som innnehåll. Inline-element flyter med i löpamde text. Inline-element kan däremot inte ha blockelement som innehåll.

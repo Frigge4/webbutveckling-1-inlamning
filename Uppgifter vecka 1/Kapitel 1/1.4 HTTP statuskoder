@@ -1,0 +1,5 @@
+Vad betyder koden 200?: 200 ok~"Här kommer svaret/resultatet"
+
+Vad betyder koden 304?: Not modified~"Oförändrad. Läs in resursen från din cache"
+
+Vad betyder koden 500?: Internal seerver error~"Jahapp, där krashade du mig"

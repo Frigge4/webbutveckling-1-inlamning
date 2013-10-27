@@ -1,0 +1,5 @@
+Vad menas med progressiv förbättring?: Utvecklingen på webben går hela tiden framåt och du som utvecklare ska inte avstå från att änvända den nya tekniken pågrund av att inte alla har den senaste webbläsaren som stödjer den tekniken. Och att allt hela tiden går framåt (väldigt snabbt)
+
+Vad menas med att HTML-kod är semantisk?: Att webbsidor ska kunna fungera med bara HTML kod och är inte beroende utav CSS elr javascript.
+
+Vad är kapacitetsdetektering?: När nya tekniker kommer så måste dem testas gradvis, så innan den släpps måste man se att den stöds för att funka som tänkt.
